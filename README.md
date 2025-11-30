@@ -91,11 +91,11 @@ Each story was linked to test cases in the Manual Testing sheet.
 We mapped each SRS requirement like this:
 | SRS Requirement | User Stories | Test Cases |
 |-----------------|------------------|------------|
-| FR-AUTH-05 Login |  | TC-AUTH-01 |
-| FR-AUTH-06 Invalid Login |  | TC-AUTH-02 |
-| FR-PROD-03 View Product Page | TC-AUTH-02 | ✔ |
-| FR-CART-01 Add to Cart | TC-CART-01 | ✔ |
-| FR-CHK-01 Checkout | TC-CHK-01 | Partially (Captcha) |
+| REQ_AUTH_002 | US_002  | TC_004 |
+| REQ_AUTH_004 | US_004 | TC_008 |
+| REQ_PROD_012 | US_012 | TC_023 |
+| REQ_CART_019 | US_019 | TC_030 , TC_032 , TC_035 |
+| REQ_ADMIN_033 | US_033 | TC_045 , TC_046 |
 This ensures full coverage and professional documentation.
 ---
 ## 7. Project Files Included

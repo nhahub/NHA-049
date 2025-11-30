@@ -99,10 +99,13 @@ We mapped each SRS requirement like this:
 This ensures full coverage and professional documentation.
 ---
 ## 7. Project Files Included
+- **Test Plan**
 - **SRS Document**
 - **Manual Test Cases Excel**
 - **Selenium Automation Project (Java)**
 - **Jira Snapshots (Stories – Requirements - Bugs – Sprint Board)**
+- **API Test cases sheet**
+- **Project Presentation**
 - **README.md**
 ---
 ## 8. Conclusion

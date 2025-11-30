@@ -68,8 +68,6 @@ We tested the publicly available API endpoints such as:
 - Contact Us
 - Delete User
 ### ✔ Deliverables
-- Postman Collection
-- Environment Variables
 - API Test Report
 Assertions included:
 - Status codes
@@ -91,11 +89,11 @@ Each story was linked to test cases in the Manual Testing sheet.
 ---
 ## 6. Requirement Traceability (SRS → User stories → Test Cases )
 We mapped each SRS requirement like this:
-| SRS Requirement | Manual Test Case | Automated? |
+| SRS Requirement | User Stories | Test Cases |
 |-----------------|------------------|------------|
-| FR-AUTH-05 Login | TC-AUTH-01 | ✔ Yes |
-| FR-AUTH-06 Invalid Login | TC-AUTH-02 | ✔ Yes |
-| FR-PROD-03 View Product Page | TC-PROD-04 | ✔ |
+| FR-AUTH-05 Login |  | TC-AUTH-01 |
+| FR-AUTH-06 Invalid Login |  | TC-AUTH-02 |
+| FR-PROD-03 View Product Page | TC-AUTH-02 | ✔ |
 | FR-CART-01 Add to Cart | TC-CART-01 | ✔ |
 | FR-CHK-01 Checkout | TC-CHK-01 | Partially (Captcha) |
 This ensures full coverage and professional documentation.

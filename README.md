@@ -15,7 +15,7 @@ The testing process covers:
 - Regression Testing
 - API Testing
 - Automation Using Selenium + Java 
-- Documentation (Test Cases, Bug Reports, Jira Boards)
+- Documentation (Test Cases, User stories  , Bug Reports, Jira Boards)
 All scenarios were derived strictly from the SRS and mapped to requirements.
 ---
 ## 2. Manual Testing
